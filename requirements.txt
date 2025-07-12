@@ -1,0 +1,26 @@
+# Flask and core dependencies
+Flask==2.3.3
+Flask-SQLAlchemy==3.0.5
+Flask-Login==0.6.2
+Flask-Mail==0.9.1
+
+# Database
+SQLAlchemy==2.0.21
+
+# Security
+Werkzeug==2.3.7
+
+# Scheduled tasks
+APScheduler==3.10.4
+
+# HTTP requests
+requests==2.31.0
+
+# Stripe payments
+stripe==6.5.0
+
+# Environment variables
+python-dotenv==1.0.0
+
+# Production server (optional, but recommended for deployment)
+gunicorn==21.2.0 
