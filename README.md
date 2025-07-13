@@ -1,5 +1,12 @@
 # Website Uptime Monitoring SaaS
 
+[![License](https://img.shields.io/github/license/e1washere/website-uptime-saas)](LICENSE)
+[![Laravel](https://img.shields.io/badge/Laravel-10.x-red.svg)](https://laravel.com/)
+[![PHP Version](https://img.shields.io/badge/PHP-%3E%3D8.1-blue)](https://www.php.net/)
+[![Last Commit](https://img.shields.io/github/last-commit/e1washere/website-uptime-saas)](https://github.com/e1washere/website-uptime-saas/commits/main)
+[![Issues](https://img.shields.io/github/issues/e1washere/website-uptime-saas)](https://github.com/e1washere/website-uptime-saas/issues)
+[![Stars](https://img.shields.io/github/stars/e1washere/website-uptime-saas)](https://github.com/e1washere/website-uptime-saas/stargazers)
+
 A Flask-based SaaS application for monitoring website uptime with email notifications and Stripe payment integration.
 
 ## Features
